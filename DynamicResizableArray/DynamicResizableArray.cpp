@@ -134,4 +134,6 @@ int main()
 	stringVector.Clear();
 	PrintVector(stringVector);
 	*/
+
+	return EXIT_SUCCESS;
 }
